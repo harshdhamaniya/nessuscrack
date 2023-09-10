@@ -3,7 +3,7 @@
 
 ## Download and Install Nessus
 
-[Download Nessus - Click Here]([https://plugins.nessus.org/v2/nessus.php?f=all-2.0.tar.gz&u=56b33ade57c60a01058b1506999a2431&p=1ee9c89d5379a119a56498f2d5dff674](https://www.tenable.com/downloads/nessus?loginAttempted=true))
+[Download Nessus - Click Here](https://www.tenable.com/downloads/nessus?loginAttempted=true)
 
 ![Untitled 1](https://github.com/harshdhamaniya/nessuscrack/assets/116166209/473209a1-278e-4a62-8a75-e9aaf74077b2)
 
